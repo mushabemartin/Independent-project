@@ -1,0 +1,25 @@
+{
+    "others": [
+      {
+        "name": "John Doe",
+        "bio": "Passionate web developer with experience in building responsive and user-friendly websites.",
+        "image": "images/Free Resume CV Template Example Download WORD & PDF (1).jpeg"
+      },
+      {
+        "name": "Jane Smith",
+        "bio": "Experienced marketing professional with a track record of successful campaigns.",
+        "image": "images/Free Resume CV Template Example Download WORD & PDF (1).jpeg"
+      },
+      {
+        "name": "Mike Johnson",
+        "bio": "Dedicated teacher with a commitment to nurturing young minds.",
+        "image": "images/Electrical Engineer Fresher Resume - Download in Word, PSD, Apple Pages, Publisher _ Template_net.jpeg"
+      },
+      {
+        "name": "Sara Williams",
+        "bio": "Creative graphic designer with a passion for visual storytelling.",
+        "image": "images/Electrical Engineer Fresher Resume - Download in Word, PSD, Apple Pages, Publisher _ Template_net.jpeg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "User 1",
+      "bio": "Bio of User 1",
+      "image": "user1.jpg"
+    },
+    {
+      "name": "User 2",
+      "bio": "Bio of User 2",
+      "image": "user2.jpg"
+    }
+  ]
+}
